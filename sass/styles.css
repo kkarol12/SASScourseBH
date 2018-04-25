@@ -1,0 +1,16 @@
+body {
+  background: orangered; }
+
+.box {
+  background: white;
+  height: 100px;
+  width: 100px;
+  border-radius: 30px; }
+
+.box2 {
+  background: red;
+  height: 300px;
+  width: 300px;
+  border-radius: 50px; }
+
+/*# sourceMappingURL=styles.css.map */
